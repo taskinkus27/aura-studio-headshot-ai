@@ -1,0 +1,6 @@
+{
+  "name": "AuraStudio - AI Professional Headshots",
+  "description": "Transform casual selfies into executive, studio-grade professional headshots across corporate, modern tech, outdoor, and editorial styles with AI image generation and prompt editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
